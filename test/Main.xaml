@@ -58,7 +58,7 @@
     <Flowchart.StartNode>
       <FlowStep x:Name="__ReferenceID0" sap2010:WorkflowViewState.IdRef="FlowStep_1">
         <Sequence sap2010:WorkflowViewState.IdRef="Sequence_1">
-          <ui:OpenBrowser UiBrowser="{x:Null}" BrowserType="IE" DisplayName="Open browser" Hidden="False" sap2010:WorkflowViewState.IdRef="OpenBrowser_1" NewSession="True" Private="False" Url="www.test.com">
+          <ui:OpenBrowser UiBrowser="{x:Null}" BrowserType="IE" DisplayName="Open browser" Hidden="False" sap2010:WorkflowViewState.IdRef="OpenBrowser_1" NewSession="True" Private="False" Url="www.lol.com">
             <ui:OpenBrowser.Body>
               <ActivityAction x:TypeArguments="x:Object">
                 <ActivityAction.Argument>
@@ -72,7 +72,7 @@
       </FlowStep>
     </Flowchart.StartNode>
     <x:Reference>__ReferenceID0</x:Reference>
-    <sads:DebugSymbol.Symbol>dy1DOlxVc2Vyc1xoZWx5XERvY3VtZW50c1xVaVBhdGhcdGVzdFxNYWluLnhhbWwFOQNMDwIBATwJRxQCAQI9C0YcAgEDPcEBPc8BAgEFQxFDWwIBBA==</sads:DebugSymbol.Symbol>
+    <sads:DebugSymbol.Symbol>d0FDOlxVc2Vyc1xoZWx5XERvY3VtZW50c1xHaXRIdWJcVGVzdGluZy1yb2JvdC1zdHVmZlx0ZXN0XE1haW4ueGFtbAU5A0wPAgEBPAlHFAIBAj0LRhwCAQM9wQE9zgECAQVDEUNbAgEE</sads:DebugSymbol.Symbol>
   </Flowchart>
   <sap2010:WorkflowViewState.ViewStateManager>
     <sap2010:ViewStateManager>
